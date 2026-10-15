@@ -80,8 +80,8 @@ WHERE CouponCode = '';
 
 | Query | Result | Business Insight |
 |-------|--------|-----------------|
-| Total Revenue | **$1,264,738** | Business generated over $1.26M in sales |
-| Average Order Value | **$1,053.95** | Customers spend ~$1,054 per transaction |
+| Total Revenue | **$1,264,762** | Business generated over $1.26M in sales |
+| Average Order Value | **$1,053.97** | Customers spend ~$1,054 per transaction |
 
 ### 2. Customer Analysis
 
@@ -93,9 +93,9 @@ WHERE CouponCode = '';
 
 | Query | Result | Business Insight |
 |-------|--------|-----------------|
-| Revenue Lost to Returns | **$243,268** | Significant revenue lost post-delivery |
-| Revenue Lost to Cancellations | **$276,390** | Even greater loss before fulfillment |
-| Combined Loss | **$519,658** | 41% of revenue at risk |
+| Revenue Lost to Returns | **$243,278** | Significant revenue lost post-delivery |
+| Revenue Lost to Cancellations | **$276,396** | Even greater loss before fulfillment |
+| Combined Loss | **$519,674** | 41% of revenue at risk |
 
 ---
 
@@ -104,8 +104,8 @@ WHERE CouponCode = '';
 - Total Revenue exceeded **$1.26 million**
 - Average Order Value was approximately **$1,054**
 - **1,189 unique customers** made purchases
-- Returns resulted in **$243,268** in lost revenue
-- Cancellations resulted in **$276,390** in lost revenue
+- Returns resulted in **$243,278** in lost revenue
+- Cancellations resulted in **$276,396** in lost revenue
 - Marketing channels differ significantly in revenue contribution
 - Product performance varies across categories
 - Coupon usage provides insight into promotion effectiveness
