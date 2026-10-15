@@ -1,4 +1,4 @@
-# Task-3-Isaac_Okoile
+# Task-3-Isaac_Okolie
 # Project 3: E-Commerce Sales Analysis Using SQL
 ### DecodeLabs Data Analytics Internship
 
